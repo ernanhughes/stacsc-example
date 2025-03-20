@@ -22,3 +22,4 @@ python_dotenv
 seaborn
 hf_transfer
 tqdm
+peft

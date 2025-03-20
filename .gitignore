@@ -1,3 +1,7 @@
+*.db
+
+star/fine_tuned_models/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -172,3 +176,4 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+/star/fine_tuned_models/
