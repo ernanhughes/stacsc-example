@@ -1,0 +1,24 @@
+--index-url https://download.pytorch.org/whl/cu118
+torch
+--index-url https://pypi.org/simple
+tiktoken
+pytest
+einops
+ipykernel
+transformers[sentencepiece]
+transformers
+sentencepiece
+scikit-learn
+numpy
+nltk
+huggingface_hub
+ollama
+matplotlib
+datasets
+pandas
+sqlalchemy
+psycopg2 
+python_dotenv
+seaborn
+hf_transfer
+tqdm
